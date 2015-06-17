@@ -27,6 +27,8 @@ gem 'jbuilder', '~> 1.2'
 #use bower
 gem 'bower-rails'
 
+gem 'angular-rails-templates'
+
 group :doc do
   # bundle exec rake doc:rails generates the API under doc/api.
   gem 'sdoc', require: false
